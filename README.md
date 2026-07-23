@@ -87,6 +87,17 @@ rates × 4 seeds, gap junctions on vs. off): Golgi ISI coefficient of
 variation and pairwise correlation both shift with drive rate and with
 whether Golgi↔Golgi diffusion is active — an early look at question A.
 
+`figures/tissue_3000x300um_gj_{off,on}.png` — a single run at tissue scale
+(3000 × 300 µm, 9000 cells, 250 Golgi cells, 923/1000 independent
+mossy-fiber populations to granule/Golgi) with a climbing-fiber pulse onto
+900/9000 Purkinje cells at 1500 ms: Golgi/granule/Purkinje rasters, pooled
+PSTH, Golgi power spectrum, and Golgi pairwise-correlation matrix, with and
+without Golgi↔Golgi gap-junction coupling. Golgi ISI CV goes from 0.167
+(off) to 0.286 (on) and the dominant Golgi frequency shifts from 5.3 Hz to
+11.6 Hz — coupling changing both the regularity and the frequency content
+of the same population, at a scale closer to the one the model is meant to
+run at.
+
 The rest of `figures/` are single-cell validation traces (spike shape,
 firing rate, pacemaker behavior, synaptic PSP shape) reproduced against
 their source papers.
