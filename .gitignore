@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+*.h5
+*.hdf5
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
