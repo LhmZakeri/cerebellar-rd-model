@@ -118,3 +118,6 @@ DESIGN.md          the reasoning behind the non-obvious decisions above
 This is a curated snapshot of an active research project, published to
 share the current state of the work. Commit history here is organized by
 development milestone rather than mirroring every working commit.
+
+Built with AI pair-programming assistance (Claude Code); the architecture,
+calibration choices, and validation targets are mine.
