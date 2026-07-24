@@ -1,4 +1,4 @@
-# Trilayer Cerebellar Cortex Reaction-Diffusion Model
+# Trilayer Cerebellar Cortex Coupled Circuit Model
 
 A spatially-extended, node-centric model of the cerebellar cortex granular,
 Purkinje, and molecular layers, built to study how coupling between the
