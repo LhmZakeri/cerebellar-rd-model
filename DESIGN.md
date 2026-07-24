@@ -117,7 +117,9 @@ contacts summing — not from any individual contact being strong.
 
 I rebuilt every inter-layer pathway as a convergent, locality-biased graph
 instead of a 1:1 map: granule/parallel-fiber→Purkinje (~100 contacts),
-stellate→Purkinje (~50), Purkinje→stellate (~2), and a parallel
+stellate→Purkinje (5, revised down from an initial 50 once a tighter
+measured-mean estimate replaced the wider tested-range figure it started
+from), Purkinje→stellate (~2), and a parallel
 fiber→stellate pathway (~3) — each sampled with a Gaussian distance falloff
 so that nearby cells are preferentially connected, since the coupling/
 synchrony sweeps this model is built for are sensitive to local vs. global
